@@ -168,17 +168,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadi0032007&theme=radical" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aadi0032007&theme=radical&utcOffset=5.5" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadi0032007&theme=radical" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aadi0032007&theme=radical&utcOffset=5.5" height="200" />
 
 <br/><br/>
 
-<img height="195" src="https://github-readme-streak-stats-eight.vercel.app?user=Aadi0032007&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff0080&currStreakLabel=ff00ff" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&count_private=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff" />
+<img height="200" src="https://github-readme-streak-stats-eight.vercel.app?user=Aadi0032007&theme=synthwave&hide_border=true&background=1a0033&stroke=ff00ff&ring=00ffff&fire=ff0080&currStreakLabel=ff00ff&card_width=520" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&count_private=true&hide_border=true&bg_color=1a0033&title_color=ff00ff&text_color=ffffff&card_width=380" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi0032007&bg_color=0d1117&color=ff00ff&line=00ffff&point=ff0080&area=true&hide_border=true&custom_title=⚡%20Contribution%20Pulse%20⚡" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi0032007&bg_color=1a0033&color=ff00ff&line=00ffff&point=ff0080&area=true&hide_border=true&custom_title=⚡%20Contribution%20Pulse%20⚡" width="98%" />
 
 </div>
 
