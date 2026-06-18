@@ -59,10 +59,10 @@ $ cat ~/.current_focus
 ┌──[ AI / ML / LLMs ]──────────────────────────────────────────┐
 ```
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,opencv" />
-<img src="https://img.shields.io/badge/LangChain-00FF41?style=flat-square&logo=chainlink&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-00FF41?style=flat-square&logo=langchain&logoColor=black" />
 <img src="https://img.shields.io/badge/HuggingFace-00FF41?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Transformers-00FF41?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/VLMs-00FF41?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/🧠_Transformers-00FF41?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/👁_VLMs-00FF41?style=flat-square&logoColor=black" />
 <img src="https://img.shields.io/badge/ONNX-00FF41?style=flat-square&logo=onnx&logoColor=black" />
 
 ```
@@ -71,10 +71,10 @@ $ cat ~/.current_focus
 <img src="https://img.shields.io/badge/ROS2-00FF41?style=flat-square&logo=ros&logoColor=black" />
 <img src="https://img.shields.io/badge/Jetson_Orin-00FF41?style=flat-square&logo=nvidia&logoColor=black" />
 <img src="https://img.shields.io/badge/CUDA-00FF41?style=flat-square&logo=nvidia&logoColor=black" />
-<img src="https://img.shields.io/badge/LeRobot-00FF41?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/🤖_LeRobot-00FF41?style=flat-square&logoColor=black" />
 <img src="https://img.shields.io/badge/MediaPipe-00FF41?style=flat-square&logo=google&logoColor=black" />
-<img src="https://img.shields.io/badge/YOLO-00FF41?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/Open3D-00FF41?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/🎯_YOLO-00FF41?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/📐_Open3D-00FF41?style=flat-square&logoColor=black" />
 
 ```
 ┌──[ MLOps & Cloud ]───────────────────────────────────────────┐
@@ -96,10 +96,10 @@ $ cat ~/.current_focus
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi0032007&theme=matrix&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi0032007&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=00ff41&currStreakNum=00ff41" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&theme=matrix&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" />
 
 </div>
 
