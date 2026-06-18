@@ -43,17 +43,6 @@
     alt="REVO Bot Online"
   />
 
-  <img
-    src="https://img.shields.io/badge/Mode-Cute_Red_Energy-FF2D75?style=for-the-badge&labelColor=000000"
-    alt="Cute Red Energy"
-  />
-
-  <br/><br/>
-
-  <sub>
-    <b>Teaching machines to see, reason, and act.</b>
-  </sub>
-
 </div>
 
 <br/>
