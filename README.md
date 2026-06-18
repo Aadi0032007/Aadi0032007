@@ -94,7 +94,7 @@ $ cat ~/.current_focus
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&hide_border=true&hide_rank=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi0032007&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=00ff41&currStreakNum=00ff41" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ff41" />
