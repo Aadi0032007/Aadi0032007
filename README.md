@@ -27,7 +27,33 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34"> About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/main/assets/robot-mascot.svg" alt="REVO mascot" width="480"/>
+
+  <a href="https://aadi-me.vercel.app/" title="Visit my portfolio">
+    <img
+      src="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/main/assets/robot.gif"
+      alt="REVO cute robot mascot"
+      width="480"
+    />
+  </a>
+
+  <br/>
+
+  <img
+    src="https://img.shields.io/badge/🤖_REVO_Bot-Online-FF1744?style=for-the-badge&labelColor=000000"
+    alt="REVO Bot Online"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Mode-Cute_Red_Energy-FF2D75?style=for-the-badge&labelColor=000000"
+    alt="Cute Red Energy"
+  />
+
+  <br/><br/>
+
+  <sub>
+    <b>Teaching machines to see, reason, and act.</b>
+  </sub>
+
 </div>
 
 <br/>
