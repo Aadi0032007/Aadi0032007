@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Aditya%20Raj&fontColor=ffffff&fontSize=80&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20Founding%20AI%20Engineer%20%E2%80%A2%20Robotics%20%E2%80%A2%20LLMs%20%E2%80%A2%20VLMs%20%E2%9A%A1&descAlignY=58&descSize=18" />
 
-<a href="https://aadi-me.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=500&color=FF00FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Teaching+robots+to+see%2C+reason+%26+act;%E2%9A%A1+Founding+Engineer+%40+Revobots+%E2%80%A2+First+Hire;%F0%9F%9A%80+ACT+%E2%80%A2+VLMs+%E2%80%A2+LangChain+%E2%80%A2+Jetson+Orin;%F0%9F%8E%AF+From+teleop+to+autonomous+pick-%26-place;%F0%9F%8C%90+Building+the+future+of+human-robot+interaction" alt="Typing SVG" /></a>
+<a href="https://aadi-me.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=500&color=FF00FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Teaching+machines+to+see%2C+reason+%26+act;%E2%9A%A1+Founding+Engineer+%40+Revobots+%E2%80%A2+First+Hire;%F0%9F%9A%80+ACT+%E2%80%A2+VLMs+%E2%80%A2+LangChain+%E2%80%A2+Jetson+Orin;%F0%9F%8E%AF+Not+just+pick-%26-place+%E2%80%94+all+kinds+of+tasks;%F0%9F%8C%90+Building+the+future+of+human-robot+interaction" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -24,9 +24,10 @@
 
 <img align="right" width="260" src="https://aadi-me.vercel.app/images/avatar-icon.jpg" alt="Aditya Raj" />
 
-> 🤖 **Founding AI Engineer @ Revobots** · First employee, building robots that perceive, reason, and act.
-> End-to-end ownership: hardware integration → teleoperation → data pipelines → model training → on-edge inference.
-> Previously: **Intel** (3D point-cloud ML on Azure/AKS) · **Sapiens** (Java/EJB insurance platform).
+> 🤖 **Founding AI Engineer @ Revobots** · First employee. **Teaching machines to see, reason, and act** —
+> not just pick-and-place, but all kinds of tasks. End-to-end ownership: hardware integration → teleoperation →
+> data pipelines → model training → on-edge inference. Previously: **Intel** (3D point-cloud ML on Azure/AKS) ·
+> **Sapiens** (Java/EJB insurance platform).
 
 <br/>
 
@@ -34,12 +35,12 @@
 | --- | --- |
 | 🥇 **Role**          | Founding AI Engineer @ Revobots · 1st Hire |
 | 🌏 **Where**         | 🇮🇳 India ⇄ 🇺🇸 USA (Remote) |
-| 🔭 **Currently**     | ACT imitation learning on REVO Scout · VLM-driven pick-&-place |
+| 🔭 **Currently**     | ACT imitation learning on REVO Scout · VLM-driven manipulation across diverse tasks |
 | 🌱 **Exploring**     | Multi-agent LangChain pipelines · Jetson Orin NX optimization |
 | 💬 **Ask me about**  | Robotics · LLMs · VLMs · Teleop · Edge AI · ML pipelines |
 | 🏆 **Fun fact**      | Rank #2 — All India, Flipkart Grid 4.0 |
 | 📚 **Publication**   | Springer · AI in Healthcare |
-| ⚡ **Tagline**       | *"Let's build something that moves. Literally."* |
+| ⚡ **Tagline**       | *"Teaching machines to see, reason, and act."* |
 
 <br/>
 
@@ -49,9 +50,9 @@
 <br/>
 
 - 🛸 **REVO Scout AGV** — autonomous ground vehicle with ACT-based imitation learning, deployed on Jetson Orin NX
-- 🚗 **Segway SmartCar Teleop** — UDP-bridged ROS1/ROS2 hybrid stack with sub-300 ms safety watchdog
+- 🦾 **Arm-Based Robotic Manipulator** — imitation learning for diverse manipulation tasks beyond pick-&-place
 - 🧠 **Multi-Agent Conversational Robot** — LangChain dialogue + perception + planning loops
-- 👁 **VLM-Driven Manipulation** — voice command → scene understanding → autonomous pick-&-place
+- 👁 **VLM-Driven Manipulation** — voice command → scene understanding → autonomous task execution
 - 📡 **Multi-Camera Streaming Pipeline** — RTSP + USB ingest, NVENC/NVDEC hardware acceleration, WebRTC out
 
 </details>
@@ -148,10 +149,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&theme=synthwave&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi0032007&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff0080&currStreakLabel=ff00ff" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&count_private=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff" />
 
 <br/>
 
@@ -395,7 +396,6 @@ On AI applications in healthcare · Springer book series
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-FF00FF?style=for-the-badge&logoColor=white)](mailto:ms.adityaraj@gmail.com)
 [![Schedule](https://img.shields.io/badge/📅_Schedule_a_Call-9D00FF?style=for-the-badge&logoColor=white)](https://calendar.google.com/calendar/render?action=TEMPLATE&add=ms.adityaraj@gmail.com&text=Meeting+with+Aditya+Raj)
-[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917543037822)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00FFFF?style=for-the-badge&logoColor=black)](https://aadi-me.vercel.app/)
 
 </div>
