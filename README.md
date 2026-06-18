@@ -36,13 +36,6 @@
     />
   </a>
 
-  <br/>
-
-  <img
-    src="https://img.shields.io/badge/🤖_REVO_Bot-Online-FF1744?style=for-the-badge&labelColor=000000"
-    alt="REVO Bot Online"
-  />
-
 </div>
 
 <br/>
