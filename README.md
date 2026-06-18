@@ -166,7 +166,7 @@
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
-<img height="180" src="https://streak-stats.demolab.com?user=Aadi0032007&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff0080&currStreakLabel=ff00ff" />
+<img height="180" src="https://github-readme-streak-stats-eight.vercel.app?user=Aadi0032007&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff0080&currStreakLabel=ff00ff" />
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&count_private=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff" />
 
