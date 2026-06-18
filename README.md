@@ -26,6 +26,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34"> About Me
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/main/assets/robot-mascot.svg" alt="REVO mascot" width="480"/>
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="65%" valign="top">
@@ -39,9 +45,6 @@
 <td width="35%" align="center" valign="top">
 
 <img width="240" src="https://aadi-me.vercel.app/images/avatar-icon.jpg" alt="Aditya Raj" />
-
-<br/>
-<img width="160" src="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/main/assets/robot-mascot.svg" alt="Robot mascot" />
 
 </td>
 </tr>
@@ -165,12 +168,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
-<img height="180" src="https://github-readme-streak-stats-eight.vercel.app?user=Aadi0032007&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff0080&currStreakLabel=ff00ff" />
+<img height="195" src="https://github-readme-streak-stats-eight.vercel.app?user=Aadi0032007&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff0080&currStreakLabel=ff00ff" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&count_private=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&count_private=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff" />
-
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi0032007&bg_color=0d1117&color=ff00ff&line=00ffff&point=ff0080&area=true&hide_border=true&custom_title=⚡%20Contribution%20Pulse%20⚡" width="98%" />
 
@@ -382,7 +383,8 @@ On AI applications in healthcare · Springer book series
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aadi0032007&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadi0032007&theme=radical" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aadi0032007&theme=radical&utcOffset=5.5" width="49%" />
 
 </div>
 
