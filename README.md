@@ -6,6 +6,10 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/main/assets/boot-sequence.svg" width="700" alt="Boot sequence" />
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF00FF?style=for-the-badge&logoColor=white)](https://aadi-me.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-aadi0032007/)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aadi0032007)
@@ -35,6 +39,9 @@
 <td width="35%" align="center" valign="top">
 
 <img width="240" src="https://aadi-me.vercel.app/images/avatar-icon.jpg" alt="Aditya Raj" />
+
+<br/>
+<img width="160" src="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/main/assets/robot-mascot.svg" alt="Robot mascot" />
 
 </td>
 </tr>
