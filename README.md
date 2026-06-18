@@ -22,14 +22,23 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34"> About Me
 
-<img align="right" width="260" src="https://aadi-me.vercel.app/images/avatar-icon.jpg" alt="Aditya Raj" />
+<table>
+<tr>
+<td width="65%" valign="top">
 
 > 🤖 **Founding AI Engineer @ Revobots** · First employee. **Teaching machines to see, reason, and act** —
 > not just pick-and-place, but all kinds of tasks. End-to-end ownership: hardware integration → teleoperation →
 > data pipelines → model training → on-edge inference. Previously: **Intel** (3D point-cloud ML on Azure/AKS) ·
 > **Sapiens** (Java/EJB insurance platform).
 
-<br/>
+</td>
+<td width="35%" align="center" valign="top">
+
+<img width="240" src="https://aadi-me.vercel.app/images/avatar-icon.jpg" alt="Aditya Raj" />
+
+</td>
+</tr>
+</table>
 
 |     |     |
 | --- | --- |
