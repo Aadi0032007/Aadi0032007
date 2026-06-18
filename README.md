@@ -1,77 +1,86 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a0033,50:4a00b4,100:000000&height=240&section=header&text=Aditya%20Raj&fontColor=ffffff&fontSize=70&animation=twinkling&fontAlignY=38&desc=%E2%9C%A6%20Founding%20AI%20Engineer%20%C2%B7%20Robotics%20%C2%B7%20LLMs%20%C2%B7%20Cosmic%20Tinkerer%20%E2%9C%A6&descAlignY=60&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Aditya%20Raj&fontColor=ffffff&fontSize=80&animation=fadeIn&fontAlignY=36&desc=%E2%9A%A1%20Founding%20AI%20Engineer%20%E2%80%A2%20Robotics%20%E2%80%A2%20LLMs%20%E2%80%A2%20VLMs%20%E2%9A%A1&descAlignY=58&descSize=18" />
 
-<a href="https://aadi-me.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=600&color=B794F4&center=true&vCenter=true&width=820&lines=%E2%9C%A6+Building+robots+that+dream+of+stars+%E2%9C%A6;Founding+Engineer+%40+Revobots+%F0%9F%9A%80;ACT+%C2%B7+VLMs+%C2%B7+LangChain+%C2%B7+Jetson+Orin;From+teleop+to+autonomy%2C+across+the+void" alt="Typing SVG" /></a>
+<a href="https://aadi-me.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=500&color=FF00FF&center=true&vCenter=true&width=900&lines=%F0%9F%A4%96+Teaching+robots+to+see%2C+reason+%26+act;%E2%9A%A1+Founding+Engineer+%40+Revobots+%E2%80%A2+First+Hire;%F0%9F%9A%80+ACT+%E2%80%A2+VLMs+%E2%80%A2+LangChain+%E2%80%A2+Jetson+Orin;%F0%9F%8E%AF+From+teleop+to+autonomous+pick-%26-place;%F0%9F%8C%90+Building+the+future+of+human-robot+interaction" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-B794F4?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=1a0033)](https://aadi-me.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-805AD5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033)](https://www.linkedin.com/in/aditya-raj-aadi0032007/)
-[![GitHub](https://img.shields.io/badge/GITHUB-553C9A?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033)](https://github.com/Aadi0032007)
-[![Publication](https://img.shields.io/badge/SPRINGER-D6BCFA?style=for-the-badge&logo=springer&logoColor=1a0033&labelColor=1a0033)](https://link.springer.com/chapter/10.1007/978-981-19-5191-6_24)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF00FF?style=for-the-badge&logoColor=white)](https://aadi-me.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-9D00FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raj-aadi0032007/)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Aadi0032007)
+[![Springer](https://img.shields.io/badge/📚_Springer-FF0080?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-19-5191-6_24)
+[![Email](https://img.shields.io/badge/📧_Email-FF00FF?style=for-the-badge&logoColor=white)](mailto:ms.adityaraj@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=Aadi0032007&label=COSMIC+VISITORS&color=b794f4&style=for-the-badge&labelColor=1a0033" />
-
-</div>
-
----
-
-### 🌌 Transmission from Earth
-
-<img align="right" width="220" src="https://aadi-me.vercel.app/images/avatar-icon.jpg" alt="Aditya Raj" style="border-radius:50%; border:3px solid #B794F4; box-shadow:0 0 28px #B794F4;" />
-
-```
-                              ╔═══════════════════╗
-                              ║   ALL SYSTEMS GO  ║
-                              ╚═══════════════════╝
-
-   ✦  name      :  Aditya Raj
-   ✦  role      :  Founding AI Engineer  @  Revobots  (USA · Remote)
-   ✦  position  :  first crewmate · first employee
-   ✦  mission   :  teach machines to perceive, reason, and act
-   ✦  payload   :  PyTorch · ROS2 · LangChain · Jetson Orin NX
-   ✦  origin    :  India  →  somewhere among the stars
-```
-
-<div align="center">
-
-  <img src="https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif" width="240" />
+<img src="https://komarev.com/ghpvc/?username=Aadi0032007&label=Profile+Views&color=ff00ff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Aadi0032007?label=Followers&style=for-the-badge&color=ff00ff&labelColor=000000" />
+<img src="https://img.shields.io/badge/🇮🇳_India_%E2%87%84_🇺🇸_USA-9D00FF?style=for-the-badge" />
 
 </div>
 
 ---
 
-### 🚀 Constellation of Skills
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> About Me
+
+<img align="right" width="240" src="https://aadi-me.vercel.app/images/avatar-icon.jpg" alt="Aditya Raj" />
+
+```python
+class AdityaRaj:
+    def __init__(self):
+        self.role        = "🤖 Founding AI Engineer @ Revobots"
+        self.position    = "🥇 First Employee · 1st Hire"
+        self.location    = "🇮🇳 India  ⇄  🇺🇸 USA (Remote)"
+        self.stack       = ["PyTorch 🔥", "LangChain 🦜", "ROS2 🤖", "Jetson Orin ⚡"]
+        self.building    = "🚀 Robots that perceive, reason & act"
+        self.obsessions  = [
+            "🎯 ACT imitation learning on REVO Scout",
+            "👁  VLM-driven autonomous pick-&-place",
+            "🔄 Teleop → record → train → deploy loops",
+            "🧠 Multi-agent LangChain pipelines",
+        ]
+        self.fun_fact    = "🏆 Rank #2 — All India, Flipkart Grid 4.0"
+        self.publication = "📚 Springer (AI in Healthcare)"
+
+    def say_hi(self):
+        print("⚡ Let's build something that moves. Literally. ⚡")
+```
+
+<br/>
+
+---
+
+### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"> Tech Arsenal
 
 <div align="center">
 
-**✦ AI · Machine Learning · LLMs ✦**
+#### 🧠 AI · Machine Learning · LLMs · VLMs
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,opencv&theme=dark" />
-<img src="https://img.shields.io/badge/LangChain-805AD5?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/HuggingFace-B794F4?style=for-the-badge&logo=huggingface&logoColor=1a0033&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Transformers-553C9A?style=for-the-badge&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/VLMs-D6BCFA?style=for-the-badge&logoColor=1a0033&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/ONNX-805AD5?style=for-the-badge&logo=onnx&logoColor=white&labelColor=1a0033" />
+<img src="https://img.shields.io/badge/🦜_LangChain-FF00FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🤗_HuggingFace-FF0080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🧠_Transformers-9D00FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/👁_VLMs-FF00FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_ONNX-00FFFF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/🎬_ACT-FF0080?style=for-the-badge&logoColor=white" />
 
-**✦ Robotics · Edge · Perception ✦**
+#### 🤖 Robotics · Edge · Perception
 
-<img src="https://img.shields.io/badge/ROS_2-B794F4?style=for-the-badge&logo=ros&logoColor=1a0033&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Jetson_Orin-553C9A?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/CUDA-805AD5?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/LeRobot-D6BCFA?style=for-the-badge&logoColor=1a0033&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/MediaPipe-B794F4?style=for-the-badge&logo=google&logoColor=1a0033&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/YOLO-553C9A?style=for-the-badge&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Open3D-805AD5?style=for-the-badge&logoColor=white&labelColor=1a0033" />
+<img src="https://img.shields.io/badge/🤖_ROS_2-FF00FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/⚡_Jetson_Orin-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/💚_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/🤖_LeRobot-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/✋_MediaPipe-FF00FF?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/🎯_YOLO-9D00FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/📐_Open3D-00FFFF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/📡_WebRTC-FF0080?style=for-the-badge&logoColor=white" />
 
-**✦ MLOps · Cloud · Infrastructure ✦**
+#### ☁️ MLOps · Cloud · Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,linux,bash&theme=dark" />
-<img src="https://img.shields.io/badge/W&B-B794F4?style=for-the-badge&logo=weightsandbiases&logoColor=1a0033&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/MLflow-805AD5?style=for-the-badge&logo=mlflow&logoColor=white&labelColor=1a0033" />
+<img src="https://img.shields.io/badge/📊_W&B-FF0080?style=for-the-badge&logo=weightsandbiases&logoColor=white" />
+<img src="https://img.shields.io/badge/🔬_MLflow-00FFFF?style=for-the-badge&logo=mlflow&logoColor=black" />
 
-**✦ Languages ✦**
+#### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,bash&theme=dark" />
 
@@ -79,54 +88,180 @@
 
 ---
 
-### 🛰️ Telemetry from Orbit
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Battle Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&theme=midnight-purple&hide_border=true&hide_rank=true&bg_color=1a0033&title_color=b794f4&icon_color=d6bcfa&text_color=ffffff" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi0032007&theme=midnight-purple&hide_border=true&background=1a0033&stroke=b794f4&ring=d6bcfa&fire=b794f4&currStreakLabel=b794f4" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aadi0032007&show_icons=true&theme=synthwave&hide_border=true&hide_rank=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aadi0032007&theme=synthwave&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff0080&currStreakLabel=ff00ff" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a0033&title_color=b794f4&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi0032007&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&text_color=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadi0032007&bg_color=0d1117&color=ff00ff&line=00ffff&point=ff0080&area=true&hide_border=true&custom_title=⚡%20Contribution%20Pulse%20⚡" width="98%" />
 
 </div>
 
 ---
 
-### ☄️ Comet Trail of Contributions
+### <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="32"> Featured Missions
 
 <div align="center">
 
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/output/github-snake-dark.svg" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛸 [aadi_scout_hw](https://github.com/Aadi0032007/aadi_scout_hw)
+
+> **REVO Scout AGV — Hardware + Autonomy Stack**
+> ACT-based imitation learning · UDP teleop bridge · multi-camera RTSP/USB pipeline · Jetson Orin NX deployment
+
+`PyTorch` `ROS2` `LeRobot` `Jetson` `CUDA`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 [aadi_revobots](https://github.com/Aadi0032007/aadi_revobots)
+
+> **Revobots Core AI Stack**
+> Multi-agent conversational pipelines · Transformer-based perception · voice-driven manipulation · production ML workflows
+
+`LangChain` `Transformers` `VLMs` `W&B` `MLflow`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩺 [Patient Monitoring Robot](https://pmr-osu.github.io/)
+
+> **Healthcare AGV · w/ Oregon State University**
+> AI-integrated mobile robot for patient care & monitoring · navigation system · real-time data analysis
+
+`Robotics` `Healthcare AI` `Navigation`
+
+</td>
+<td width="50%" valign="top">
+
+#### ✋ [Hand-Gesture VR/AR Control](https://github.com/Capstone-Self-Learning-Robotic-System)
+
+> **Metaverse-Grade Robot Teleop**
+> Real-time hand geometry interpretation · MediaPipe-driven controls · bare-hand robot operation for AR/VR
+
+`MediaPipe` `AR/VR` `Teleop` `Robotics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔐 [Impregnable Healthcare Ecosystem](https://github.com/m-a-rahul/IHE-Models)
+
+> **IoT + AI + Blockchain Healthcare**
+> Secure healthcare ecosystem with AI-driven automation · end-to-end APIs · patient-doctor-device communication
+
+`IoT` `Blockchain` `AI` `Security`
+
+</td>
+<td width="50%" valign="top">
+
+#### ♻️ [AI Recycling Robotics](https://github.com/osu-ai-recycling/ai-recycling)
+
+> **Sustainable Automation · OSU**
+> AI-enabled recycling system · robotics + perception for sustainable automation
+
+`Computer Vision` `Robotics` `Sustainability`
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### 🪐 Featured Missions
+### <img src="https://media.giphy.com/media/RKuxX1FUZRGTm5vKqj/giphy.gif" width="32"> Decorations & Achievements
 
-> **🛸 REVO Scout AGV** — ACT-based imitation learning, autonomous nav, Jetson Orin NX deployment
-> **🛰️ Segway SmartCar Teleop** — ROS2 → UDP bridge → ROS1 docker, sub-300 ms watchdog safety loop
-> **🌠 Multi-Agent Conversational Robot** — LangChain dialogue + VLM perception + planning
-> **🩺 Patient Monitoring Robot** — collaboration with **Oregon State University** · [pmr-osu.github.io](https://pmr-osu.github.io/)
-> **🌌 3D Point-Cloud Segmentation @ Intel** — 96% accuracy · 92% mIoU · deployed on Azure AKS
-> **✋ Hand-Gesture VR/AR Robot Control** — MediaPipe-driven, metaverse-grade teleop
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🏆 [Flipkart Grid 4.0](https://www.instagram.com/p/CkAvMk6JTEs/?igsh=NWl3ODZyd2VhNmVq)
+
+<img src="https://img.shields.io/badge/🥈_Rank_%232-FF00FF?style=for-the-badge&labelColor=000000" />
+<br/>
+<img src="https://img.shields.io/badge/All_India-9D00FF?style=for-the-badge&labelColor=000000" />
+
+**National-level engineering challenge**
+Out of thousands of teams · competitive problem-solving
+
+</td>
+<td align="center" width="50%">
+
+#### 📚 [Springer Publication](https://link.springer.com/chapter/10.1007/978-981-19-5191-6_24)
+
+<img src="https://img.shields.io/badge/📖_Published-FF0080?style=for-the-badge&labelColor=000000" />
+<br/>
+<img src="https://img.shields.io/badge/AI_in_Healthcare-00FFFF?style=for-the-badge&labelColor=000000" />
+
+**Peer-reviewed book chapter**
+On AI applications in healthcare · Springer book series
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aadi0032007&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
 
 ---
 
-### 🏆 Stars Earned
+### <img src="https://media.giphy.com/media/ZAQHy3qZpL3UwoQrxK/giphy.gif" width="32"> Contribution Snake
 
-```
-   ★  Rank #2  — All India  ·  Flipkart Grid 4.0
-   ★  Author  — Springer (AI in Healthcare)
-   ★  Founder's hire #1  ·  Revobots
-```
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Aadi0032007/Aadi0032007/output/github-snake.svg" />
+  </picture>
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32"> Let's Connect
+
+<div align="center">
+
+⚡ **Always open to discussing AI, Robotics, and the future of Human-Machine interaction.** ⚡
+
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_Email_Me-FF00FF?style=for-the-badge&logoColor=white)](mailto:ms.adityaraj@gmail.com)
+[![Schedule](https://img.shields.io/badge/📅_Schedule_a_Call-9D00FF?style=for-the-badge&logoColor=white)](https://calendar.google.com/calendar/render?action=TEMPLATE&add=ms.adityaraj@gmail.com&text=Meeting+with+Aditya+Raj)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917543037822)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00FFFF?style=for-the-badge&logoColor=black)](https://aadi-me.vercel.app/)
+
+</div>
 
 ---
 
 <div align="center">
 
-> *“Somewhere, something incredible is waiting to be known — and probably to be teleoperated.”*
+### ⚡ *"Robots don't dream of electric sheep — they dream of clean datasets."* ⚡
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:4a00b4,100:1a0033&height=120&section=footer" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+<sub>💜 Crafted with caffeine, CUDA cores, and a healthy disrespect for sleep. 💜</sub>
 
 </div>
